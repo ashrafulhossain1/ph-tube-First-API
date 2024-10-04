@@ -1,0 +1,2 @@
+const isVerified = "fggfd";
+
